@@ -1,6 +1,6 @@
 # Hey, I'm Eren Yeager
 
-![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.png)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.png" width="50" height="50" alt="Python Logo">
 
 I'm currently learning **Python** and diving into the world of **APIs**.  
 I enjoy solving problems, building projects, and constantly improving my skills.
