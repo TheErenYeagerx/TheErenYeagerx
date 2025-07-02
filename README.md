@@ -1,20 +1,29 @@
-# Hey, I'm Eren Yeager
+# ☃️ I'm Eren Yeager 
 
-![Python Badge](https://camo.githubusercontent.com/07858da9ad3cd19f1e10777508bf1b5470f22f8eb0b3ceaa425e2ff85461e30e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
+![Python](https://img.icons8.com/color/48/000000/python--v1.png)  
+![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png)
 
-I'm currently learning **Python** and diving into the world of **APIs**.  
-I enjoy solving problems, building projects, and constantly improving my skills.
+🎯 From Haryana, India  
+💻 Learning Python and AI  
+📚 Still a beginner, just a noob exploring the coding world  
+🚀 Trying to improve everyday!
 
 ---
 
-## What I'm Working On:
-- Python basics and scripting  
-- Exploring REST APIs  
-- Building small automation tools  
+### 🛠️ Tools & Technologies I'm Learning:
 
-## Goals:
-- Master Python  
-- Build real-world projects  
-- Collaborate with other developers  
+- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) Python  
+- ![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png) Artificial Intelligence  
+- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) Git & GitHub  
 
-> *"If you don't fight, you can't win."* – Eren Yeager
+---
+
+### 📈 GitHub Stats
+
+![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheErenYeagerx&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+> Still building my digital presence... 😊
