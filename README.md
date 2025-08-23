@@ -1,5 +1,6 @@
 
 🧑‍🏫 I'm Ayush
+
 🎯 From Haryana, India  
 💻 Learning Python and AI  
 📚 Still a beginner, just a noob exploring the coding world  
