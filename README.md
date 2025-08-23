@@ -1,27 +1,26 @@
+# 👋 Hi, I'm Ayush  
 
-🧑‍🏫 I'm Ayush
-
-🎯 From Haryana, India  
-💻 Learning Python and AI  
-📚 Still a beginner, just a noob exploring the coding world  
-🚀 Trying to improve everyday!
-
----
-
-### 🛠️ Tools & Technologies I'm Learning:
-
-- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) Python  
-- ![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png) Artificial Intelligence  
-- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) Git & GitHub  
+🎯 From **Haryana, India**  
+💻 Exploring **Python** and **Artificial Intelligence**  
+📚 Beginner on a journey to grow in coding and technology  
+🚀 Focused on learning and improving every day  
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tools & Technologies  
 
-![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheErenYeagerx&show_icons=true&theme=radical)
+- ![Python](https://img.icons8.com/color/24/000000/python--v1.png) **Python**  
+- ![AI](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/24/000000/external-artificial-intelligence-robotics-flaticons-lineal-color-flat-icons.png) **Artificial Intelligence**  
+- ![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) **Git & GitHub**  
 
 ---
 
-### 📫 Connect with Me
+## 📊 GitHub Stats  
 
-> Still building my digital presence... 😊
+![Ayush’s GitHub stats](https://github-readme-stats.vercel.app/api?username=TheErenYeagerx&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+
+Currently building my online presence. Stay tuned!
