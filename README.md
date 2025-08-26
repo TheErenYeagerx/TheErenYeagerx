@@ -3,7 +3,10 @@
 🎯 From **Haryana, India**  
 💻 Exploring **Python** and **Artificial Intelligence**  
 📚 Beginner on a journey to grow in coding and technology  
-🚀 Focused on learning and improving every day  
+🚀 Focused on learning and improving every day
+
+
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=TheErenYeagerx&repo=RadhaMusic&theme=lite)  
 
 ---
 
@@ -24,8 +27,3 @@
 ## 📫 Connect with Me  
 
 Currently building my online presence. Stay tuned!
-
-
-**My First Project**
-
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TheErenYeagerx&repo=RadhaMusic&theme=lite)
