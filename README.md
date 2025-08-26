@@ -26,6 +26,6 @@
 Currently building my online presence. Stay tuned!
 
 
-**My First Project 
+**My First Project**
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=TheErenYeagerx&repo=RadhaMusic&theme=lite)
